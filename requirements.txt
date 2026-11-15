@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+pymannkendall
+earthaccess
+xarray
+netCDF4
